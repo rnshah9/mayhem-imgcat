@@ -4,4 +4,4 @@ image: ghcr.io/rnshah9/playground:imgcat
 
 cmds:
   - cmd: /repo/imgcat @@
-    filepath: /test.png
+    # filepath: /test.png
