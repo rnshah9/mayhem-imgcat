@@ -1,0 +1,7 @@
+project: rnshah9/mayhem-imgcat
+target: imgcat
+image: ghcr.io/rnshah9/playground:imgcat
+
+cmds:
+  - cmd: /repo/imgcat @@
+    # filepath: /test.png
